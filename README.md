@@ -1,6 +1,8 @@
 ### Hi there 👋 
 Hi, I'm Chris - a self-taught developer with a passion for programming and product development that borders on the unhealthy...
 
+### About me
+
 I began my programming journey during my undergraduate degree at the University of Bristol (UK) and have since spent thousands of hours developing engineering frameworks and libraries for academic and commercial purposes. This culminated in cofounding a startup with two PhD friends which aimed to provide a SaaS product that enabled automated web-based workflows for engineers designing hardware using simulation. 
 
 Unfortunately, I had to leave the startup after 18 months due to a lack of funding as a result of the Covid-19 pandemic. However, I found the entire experience incredibly rewarding and learnt an immense amout about software and product development, including methodologies such as Design Thinking and The Lean Startup's Build-Measure-Learn cycle.
@@ -17,13 +19,6 @@ Cofounding a startup exposed me to the complex and exciting world of digital tec
 
 * Minimising the human carbon footprint through data - Seriously, why haven't we gamified this yet??
 * Understanding media bias through machine learning - Can we spot 'fake news' and cheap journalism before it has a lasting effect?
-
-### Get in touch 📫
-
-[<img align="left" alt="christopher-szczyglowski | LinkedIn" width="26px" src="https://user-images.githubusercontent.com/38318223/129896248-7e9442c4-5811-41c0-a004-5c5dc8512a50.png"/>][linkedin]
-[<img align="left" alt="christopher-szczyglowski | ResearchGate" width="26px" src="https://user-images.githubusercontent.com/38318223/129895964-0a637d6d-08ca-46e3-a3b2-be30a5c498ad.png"/>][researchgate]
-
-<br/>
 
 ### Languages and Tools
 
@@ -51,6 +46,13 @@ width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4
 width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" 
 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br/>
+
+### Get in touch 📫
+
+[<img align="left" alt="christopher-szczyglowski | LinkedIn" width="26px" src="https://user-images.githubusercontent.com/38318223/129896248-7e9442c4-5811-41c0-a004-5c5dc8512a50.png"/>][linkedin]
+[<img align="left" alt="christopher-szczyglowski | ResearchGate" width="26px" src="https://user-images.githubusercontent.com/38318223/129895964-0a637d6d-08ca-46e3-a3b2-be30a5c498ad.png"/>][researchgate]
 
 <br/>
 
