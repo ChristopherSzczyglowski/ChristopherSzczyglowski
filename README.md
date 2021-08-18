@@ -62,7 +62,7 @@ I am using my downtime between jobs to crunch through a few Kaggle problems. Che
 #### [Python Packaging Template](https://github.com/ChristopherSzczyglowski/python_package_template)
 My personal knowledge repository on how I like to develop and structure Python packages. 
 
-#### [Natural Environment Research Council Covid-19 Hackathon](https://github.com/BristolFluFighters/BristolFluFighters_NERCHackathonTwo_Recovery)
+#### [Natural Environment Research Council Covid-19 Hackathon](https://github.com/BristolFluFighters/BristolFluFighters_NERCHackathonTwo_Recovery#covid_hackathon_2)
 Awarded second place in a 5 day hackathon investigating the environmental impact of the Covid-19 lockdown in the UK. 
 
 #### Engineering Web Application (Commercial)
