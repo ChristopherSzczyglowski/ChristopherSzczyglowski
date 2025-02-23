@@ -24,7 +24,7 @@ width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d42
 ### Hi there 👋 
 Hi, I'm Chris - a UK-based software engineer with experience across tech startups, academia and UK Defence.
 
-My personal GitHub is a bit bare at the moment as I'm focuseed on building some exciting Generative AI applications in the Performance Marketing sector as part of my role as Technical Director at Envolve Tech. 
+My personal GitHub is a bit bare at the moment as I'm focuseed on building some exciting Generative AI applications in the Performance Marketing sector as part of my role as Technical Director at [Envolve Tech](https://envolvetech.com). 
 
 In an ideal world I would love to put some deep thoughts here about technical leadership in a remote/hybrid working environment, but I'm still formulating my first blog post so that will have to wait...
 
